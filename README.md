@@ -18,6 +18,8 @@ ssh-keygen -t rsa
 cat /home/mde-user/.ssh/id_rsa.pub
 ``` 
 
+- The python scaffold is made on github and is associated to a project *inconnu* in a space. Here is the link to the [*python scaffold*](https://github.com/salmanshahid8/python_scaffold).
+
 
 ## Course 2 : [Cloud Virtualization, Containers and APIs](https://www.coursera.org/learn/cloud-virtualization-containers-api-duke?specialization=building-cloud-computing-solutions-at-scale)
 
