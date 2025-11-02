@@ -1,7 +1,9 @@
 # Introduction
 This directory contains different resources available in the Coursera specialization [**Building Cloud Computing Solutions at Scale Specialization**](https://www.coursera.org/specializations/building-cloud-computing-solutions-at-scale)
 
-![Specialization Roadmap](infography/specialization_roadmap.png)
+![Specialization Roadmap](project_management/specialization_roadmap.png)
+
+The progress of the project is tracked using this [**trello board**](https://trello.com/b/S0ZbpfoF/duke-cloud-computing-project).
 
 ## Course 1 : [Cloud Computing Foundations](https://www.coursera.org/learn/cloud-computing-foundations-duke?specialization=building-cloud-computing-solutions-at-scale)
 
