@@ -3,11 +3,20 @@ This directory contains different resources available in the Coursera specializa
 
 ![Specialization Roadmap](project_management/specialization_roadmap.png)
 
-The progress of the project is tracked using this [**trello board**](https://trello.com/b/S0ZbpfoF/duke-cloud-computing-project).
+- The progress of the project is tracked using this [**trello board**](https://trello.com/b/S0ZbpfoF/duke-cloud-computing-project).
 
 ## Course 1 : [Cloud Computing Foundations](https://www.coursera.org/learn/cloud-computing-foundations-duke?specialization=building-cloud-computing-solutions-at-scale)
 
+- For **AWS** part, *AWS Cloud9* is no longer available to new customers as of July 25, 2024. *AWS CodeCatalyst* is used instead.
+- To generate a ssh key in amazon terminal
+```
+ssh-keygen -t rsa
+```
 
+- To see the ssh key
+```
+cat /home/mde-user/.ssh/id_rsa.pub
+``` 
 
 
 ## Course 2 : [Cloud Virtualization, Containers and APIs](https://www.coursera.org/learn/cloud-virtualization-containers-api-duke?specialization=building-cloud-computing-solutions-at-scale)
